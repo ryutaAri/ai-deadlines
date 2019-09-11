@@ -3,11 +3,11 @@ title: AI Conference Deadlines # (Maintained by @abhshkdz)
 description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
 author: Ryuta Arisaka 
 
-domain: "ryutaarisaka.co.uk/calendar"
+domain: ""
 baseurl: ""
 
 github_username: ryutaAri
-github_repo: ai-deadlines
+github_repo: ai-deadlines-experiments
 
 markdown: kramdown
 ga_id: UA-36274081-2

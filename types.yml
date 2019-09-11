@@ -13,3 +13,7 @@
   sub: DM 
 - name: Knowledge Representation
   sub: KR
+- name: General AI
+  sub: AI
+- name: Multi-Agent System
+  sub: MAS

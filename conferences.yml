@@ -1,5 +1,6 @@
 
 ---
+
 - title: KR
   year: 2020
   id: kr2020
@@ -9,6 +10,7 @@
   date: Sep 12-Sep 18, 2020
   place: Rodhes, Greece
   sub: KR
+  note: 'Rank: A*'
 
 
 - title: ICRA
@@ -89,7 +91,7 @@
   timezone: UTC-12
   date: May 9-13, 2020
   place: Auckland, New Zealand
-  sub: ML
+  sub: MAS 
   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 12, 2019. More info <a href=''https://aamas2020.conference.auckland.ac.nz/call-for-papers/''>here</a>.'
 
 - title: ACL
@@ -213,7 +215,7 @@
   timezone: UTC-12
   date: August 10-16, 2019
   place: Macau, China
-  sub: ML
+  sub: AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 19, 2019. More info <a href=''https://www.ijcai19.org/call-for-papers.html''>here</a>.'
 
 - title: IROS
@@ -406,4 +408,4 @@
   timezone: UTC-10
   date: February 7-12, 2020
   place: New York, USA
-  sub: ML
+  sub: AI
